@@ -1,5 +1,4 @@
-Here is a **beautified and well-structured `README.md`** file for your **Contact Book CLI** project. This version is formatted with clear headings, bullet points, and code blocks for better readability on GitHub:
-
+ **Contact Book CLI** 
 ---
 
 ````markdown
